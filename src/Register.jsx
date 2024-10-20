@@ -56,6 +56,7 @@ const Register = () => {
       setErrMsg("Invalid Entry");
       return;
     }
+    
     setSuccess(true);
   };
 
